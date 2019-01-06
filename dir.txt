@@ -1,0 +1,1 @@
+.gitignore,cat.jpg,dir.txt,index.js,package.json,tekst.txt
